@@ -1,4 +1,4 @@
-# Detecting and Localizing Network Faults in RoCE-Based AI Clouds Under Restricted Telemetry (Extended Version)
+# Detecting and Localizing Network Faults in RoCE-Based AI Clouds under Restricted Telemetry (Extended Version)
 
 Sinuo Cao, Weiqi Zhu, Jie Gui, Jintao He, Qun Huang (Peking University);
 Hao Liang, Yang Wang, Bolong Cui, Tingfeng Jiang, Weiling Gu, Tao Peng,
@@ -9,7 +9,7 @@ This repository hosts the **extended version** of our paper accepted for
 publication at *The 2026 ACM SIGOPS Annual Technical Conference (SIGOPS
 ATC 2026)*:
 
-> **Detecting and Localizing Network Faults in RoCE-Based AI Clouds Under
+> **Detecting and Localizing Network Faults in RoCE-Based AI Clouds under
 > Restricted Telemetry.** To appear in Proceedings of the 2026 ACM SIGOPS
 > Annual Technical Conference (SIGOPS ATC 2026).
 > https://doi.org/10.1145/3828523.3857027
